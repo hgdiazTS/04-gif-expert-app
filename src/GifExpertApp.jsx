@@ -10,6 +10,7 @@ export const GifExpertApp = () => {
         //setCategories([...categories, 'Hola mundo']);
         setCategories([newCategory, ...categories]);
         //setCategories(cat => [...cat, 'Valorant']);
+        
     }
 
     return (
